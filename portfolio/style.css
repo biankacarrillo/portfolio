@@ -1,0 +1,33 @@
+body {
+  font-family: courier new;
+  padding-top: 5rem;
+  margin: 5em;
+  background-color: cornflowerblue;
+  color: orange;
+}
+
+h1{
+  text-align: center;
+  color: gold;
+}
+
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: left;
+ 
+  
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+
+  line-height:inherit;
+  white-space:nowrap;
+  color: black;
+  
+}
+
