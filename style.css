@@ -1,0 +1,33 @@
+body {
+  padding-top: 5rem;
+  margin: 5em;
+  color: cornflowerblue;
+  background: mistyrose;
+  font-family: courier new;
+}
+
+h1 {
+  text-align: center;
+  color: darkorange;
+  font-family: ;
+}
+
+div {
+  color: ;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: middle;
+}
+.nav-p {
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+
+  line-height: inherit;
+  white-space: nowrap;
+  color: Pink;
+}
